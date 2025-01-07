@@ -7,7 +7,7 @@ xgboost
 #catboost
 dill
 flask
-#-e .
+-e .
 scikeras
 ipykernel
 imblearn
